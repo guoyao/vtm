@@ -1,2 +1,2 @@
-# vim-themes
-Themes For Vim
+# vtm
+Vim Theme Manager
