@@ -1,0 +1,33 @@
+{
+  "name": "vtm",
+  "version": "0.0.1",
+  "description": "Vim Theme Manager",
+  "main": "./lib/vtm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "vtm": "./lib/vtm.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guoyao/vtm.git"
+  },
+  "keywords": [
+    "vtm",
+    "vim",
+    "themes"
+  ],
+  "author": "guoyao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guoyao/vtm/issues"
+  },
+  "homepage": "https://github.com/guoyao/vtm#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "shelljs": "^0.5.3",
+    "chalk": "^1.1.1",
+    "underscore": "^1.8.3"
+  }
+}
