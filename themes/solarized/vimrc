@@ -1,0 +1,16 @@
+syntax enable
+set nu
+set tabstop=4
+set expandtab
+set cin
+set autoindent
+set smartindent
+set shiftwidth=4
+set cursorline
+
+set background=dark
+colorscheme solarized
+execute pathogen#infect()
+filetype plugin indent on
+map <C-n> :NERDTreeToggle<CR>
+nmap ww <C-W><C-W>
