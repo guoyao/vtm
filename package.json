@@ -1,6 +1,6 @@
 {
   "name": "vtm",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Vim Theme Manager",
   "main": "./lib/vtm.js",
   "scripts": {
